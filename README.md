@@ -1,4 +1,4 @@
-# Depot Stock Status | Power BI Dashboard
+# Depot Stock Status | Power BI Dashboard | Mobile Responsive Design
 
 <table>
   <tr>
